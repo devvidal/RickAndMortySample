@@ -1,0 +1,23 @@
+query FetchCharacters($page: Int!) {
+    characters(page: $page) {
+        results {
+            id
+            name
+            species
+            image
+        }
+    }
+}
+
+query FetchCharacter($id: ID!) {
+    character(id: $id) {
+        id
+        name
+        status
+        species
+        type
+        gender
+        image
+        type
+    }
+}
