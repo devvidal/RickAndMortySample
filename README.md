@@ -1,4 +1,4 @@
-# Rick and Morty Characters App Documentation
+Documentation
 
 ## 📄 Overview
 This application is inspired by the **Rick and Morty** series and allows users to **browse characters** and **view detailed information** about each one. It features smooth **animations** to enhance user experience and a clean, reactive interface.
